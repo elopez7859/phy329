@@ -1,2 +1,18 @@
+# Python Virtual Environment
 hwenv/
+
+# Jupyter Notebook Checkpoints
 .ipynb_checkpoints/
+
+# Python Bytecode Cache
+__pycache__/
+
+# VSCode Settings
+.vscode/
+
+# OS-specific junk files
+.DS_Store
+Thumbs.db
+
+# Ignore test directory and file
+test-dir/

@@ -16,3 +16,6 @@ Thumbs.db
 
 # Ignore test directory and file
 test-dir/
+
+# Ignore solutions directory
+homework/solutions/

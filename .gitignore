@@ -19,3 +19,6 @@ test-dir/
 
 # Ignore solutions directory
 homework/solutions/
+
+# Ignore lectures directory
+lectures/
